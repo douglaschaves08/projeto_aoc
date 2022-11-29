@@ -7,6 +7,8 @@ quantidades:
 
 ids:
 	.space 12
+vetor: 
+	.space 12
 
 	#VETOR DE PRODUTOS  	- $t0
 	#VETOR DE ID		- $t1
