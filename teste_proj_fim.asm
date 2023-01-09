@@ -38,7 +38,6 @@ printar2:
 	move $t3, $s3
 	move $a0, $t3
 
-	
 	la $a0, ($s3)
 	li $v0, 4
 	syscall
